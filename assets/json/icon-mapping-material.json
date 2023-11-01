@@ -1,0 +1,32 @@
+{
+    "icon_type": "text-based",
+    "base_class": "material-icons",
+    "icons": {
+        "icon-home": "home",
+        "icon-menu": "menu",
+        "icon-search": "search",
+        "icon-user": "person",
+        "icon-comments": "chat_bubble",
+        "icon-share": "share",
+        "icon-date": "calendar_month",
+        "icon-category": "label",
+        "icon-archive": "archive",
+        "icon-rss": "rss_feed",
+        "icon-arrow-right": "arrow_forward",
+        "icon-arrow-left": "arrow_back",
+        "icon-chevron-right": "chevron_right",
+        "icon-chevron-left": "chevron_left",
+        "icon-facebook": "facebook",
+        "icon-twitter": "twitter",
+        "icon-instagram": "instagram",
+        "icon-linkedin": "linkedin",
+        "icon-youtube": "youtube_searched_for",
+        "icon-tag": "local_offer",
+        "icon-envelope": "email",
+        "icon-heart": "favorite",
+        "icon-star": "star",
+        "icon-settings": "settings",
+        "icon-download": "download",
+        "icon-upload": "upload"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "icon_type": "class-based",
+    "base_class": "fas",
+    "icons": {
+        "icon-home": "fa-home",
+        "icon-menu": "fa-bars",
+        "icon-search": "fa-search",
+        "icon-user": "fa-user",
+        "icon-comments": "fa-comments",
+        "icon-share": "fa-share-alt",
+        "icon-date": "fa-calendar-alt",
+        "icon-category": "fa-tags",
+        "icon-archive": "fa-archive",
+        "icon-rss": "fa-rss",
+        "icon-arrow-right": "fa-arrow-right",
+        "icon-arrow-left": "fa-arrow-left",
+        "icon-chevron-right": "fa-chevron-right",
+        "icon-chevron-left": "fa-chevron-left", 
+        "icon-facebook": "fab fa-facebook-f",
+        "icon-twitter": "fab fa-twitter",
+        "icon-instagram": "fab fa-instagram",
+        "icon-linkedin": "fab fa-linkedin-in",
+        "icon-youtube": "fab fa-youtube",
+        "icon-tag": "fa-tag",
+        "icon-envelope": "fa-envelope",
+        "icon-heart": "fa-heart",
+        "icon-star": "fa-star",
+        "icon-settings": "fa-cog",
+        "icon-download": "fa-download",
+        "icon-upload": "fa-upload"
+    }
+}
+

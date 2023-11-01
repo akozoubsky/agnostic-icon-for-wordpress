@@ -1,0 +1,32 @@
+{
+    "icon_type": "class-based",
+    "base_class": "bi",
+    "icons": {
+        "icon-home": "bi-house",
+        "icon-menu": "bi-list",
+        "icon-search": "bi-search",
+        "icon-user": "bi-person",
+        "icon-comments": "bi-chat-dots",
+        "icon-share": "bi-share",
+        "icon-date": "bi-calendar3",
+        "icon-category": "bi-tags",
+        "icon-archive": "bi-archive",
+        "icon-rss": "bi-rss",
+        "icon-arrow-right": "bi-arrow-right",
+        "icon-arrow-left": "bi-arrow-left",
+        "icon-chevron-right": "bi-chevron-right",
+        "icon-chevron-left": "bi-chevron-left",
+        "icon-facebook": "bi-facebook",
+        "icon-twitter": "bi-twitter",
+        "icon-instagram": "bi-instagram",
+        "icon-linkedin": "bi-linkedin",
+        "icon-youtube": "bi-youtube",
+        "icon-tag": "bi-tag",
+        "icon-envelope": "bi-envelope",
+        "icon-heart": "bi-heart",
+        "icon-star": "bi-star",
+        "icon-settings": "bi-gear",
+        "icon-download": "bi-download",
+        "icon-upload": "bi-upload"
+    }
+}
