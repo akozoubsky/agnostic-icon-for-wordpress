@@ -32,9 +32,9 @@ To specify which icon set to use, you can define the `AGNOSTIC_ICON_SET` constan
 ### Example Usage in `wp-config.php`
 
 To use Font Awesome, add the following line to your `wp-config.php` file:
-
+```php
 define('AGNOSTIC_ICON_SET', 'icon-mapping-fontawesome');
-
+```
 ## Usage in templates
 
 To use the plugin, you can either use the agnostic_icon_echo_generate_icon_html() function in your theme files or the [agnostic_icon] shortcode in your posts and pages.
@@ -47,14 +47,12 @@ To generate a Font Awesome home icon with additional classes and wrapped in a 'd
 ```php
 <?php aiw_echo_generate_icon_html('icon-home', 'my-custom-class', 'my-custom-wrapper', 'my-wrapper-class'); ?>
 ```
-
 As a shortcode:
 
 To render a home icon with additional classes and wrapped in a 'div' element, you can use:
 ```html
 [aiw_generate_icon_html name="icon-date" class="my-custom-class" wrapper="my-custom-wrapper" wrapper_class="my-wrapper-class"]
 ```
-
 ## License
 
 Agnostic Icon for WordPress is distributed under the GNU General Public License v3 or later. You can find the text of the license in the LICENSE file or at [GNU General Public License v3](http://www.gnu.org/licenses/gpl-3.0.html).
