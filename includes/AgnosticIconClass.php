@@ -3,7 +3,7 @@ class AgnosticIconClass {
     public function __construct() {
         add_action('init', array($this, 'init')); // Hook for plugin initialization
         add_action('wp_enqueue_scripts', array($this, 'enqueue_styles')); // Hook to enqueue scripts and styles
-        add_shortcode('aiw_generate_icon_html', array($this, 'render_icon')); // Register the shortcode
+        add_shortcode('aiw_generate_icon_html', array($this, 'generate_shortcode_icon_html')); // Register the shortcode
     }
 
     /* Load the icon mapping based on the global constant AGNOSTIC_ICON_SET
@@ -161,7 +161,7 @@ class AgnosticIconClass {
      * To render a home icon with additional classes and wrapped in a 'div' element, you can use:
      * [icon name="icon-home" class="my-custom-class" wrapper="div" wrapper_class="my-wrapper-class"]
      */
-    public function render_icon($atts) {
+    public function generate_shortcode_icon_html($atts) {
         // Default attributes
         $atts = shortcode_atts(array(
             'name' => 'default',
