@@ -1,6 +1,6 @@
 {
     "icon_type": "class-based",
-    "base_class": "fas",
+    "base_class": "far",
     "icons": {
         "icon-home": "fa-home",
         "icon-menu": "fa-bars",
