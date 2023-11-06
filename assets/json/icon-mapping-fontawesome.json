@@ -27,7 +27,9 @@
         "icon-star": "fa-star",
         "icon-settings": "fa-cog",
         "icon-download": "fa-download",
-        "icon-upload": "fa-upload"
+        "icon-upload": "fa-upload",
+        "icon-tags": "fa-bookmark",
+        "icon-folder": "fa-folder"
     }
 }
 

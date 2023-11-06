@@ -27,6 +27,8 @@
         "icon-star": "bi-star",
         "icon-settings": "bi-gear",
         "icon-download": "bi-download",
-        "icon-upload": "bi-upload"
+        "icon-upload": "bi-upload",
+        "icon-tags": "bi-tags",
+        "icon-folder": "bi-folder"
     }
 }
