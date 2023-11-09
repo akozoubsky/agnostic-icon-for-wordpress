@@ -1,6 +1,6 @@
 {
     "icon_type": "text-based",
-    "base_class": "material-icons",
+    "base_class": "material-symbols-outlined",
     "icons": {
         "icon-home": "home",
         "icon-menu": "menu",
@@ -27,6 +27,8 @@
         "icon-star": "star",
         "icon-settings": "settings",
         "icon-download": "download",
-        "icon-upload": "upload"
+        "icon-upload": "upload",
+        "icon-tags": "bookmark",
+        "icon-folder": "folder_open"
     }
 }

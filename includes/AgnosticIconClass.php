@@ -29,8 +29,8 @@ class AgnosticIconClass {
                 wp_enqueue_style('font-awesome-ais', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
                 break;
             case 'icon-mapping-material':
-                wp_enqueue_style('material-icons-ais', 'https://fonts.googleapis.com/icon?family=Material+Icons');
-                //wp_enqueue_style('material-icons-ais', 'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+                //wp_enqueue_style('material-icons-ais', 'https://fonts.googleapis.com/icon?family=Material+Icons');
+                wp_enqueue_style('material-icons-outlined-ais', 'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
                 break;
             case 'icon-mapping-bootstrap-icons':
                 wp_enqueue_style('bootstrap-icons-ais', 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css');
